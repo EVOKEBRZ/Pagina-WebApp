@@ -1,0 +1,131 @@
+
+.title {
+    font-family: monospace;
+  top: -10px;
+  left: 120px;
+  position: absolute;
+  color: rgb(0, 0, 0);
+  padding: 15px;
+  border-style: double
+  
+}
+
+.cabeçalho {
+  font-size-adjust: inherit;
+  position: absolute;
+  top: 25px;
+  left: 300px;
+  color: blue;
+  padding:  20px;
+}
+
+.Imput {
+    margin-left: 5%;
+}
+
+.image {
+  border-style: groove;
+  border-radius: 20px;
+  width: 70px;
+  height: 70px;
+  border-radius: 50%;
+  margin-bottom: 10px;
+  margin-left: 15px;
+}
+
+ 
+.Imagem1 {
+position: absolute;
+scale: 0.5;
+top: -40px;
+left: -30px;
+border-style: inherit;
+}
+
+.Imagem2 {
+position: absolute;
+scale: 0.5;
+top: -40px;
+left: 600px;
+border-style: inherit;
+}
+
+.Imagem3 {
+position: absolute;
+scale: 0.5;
+top: -70px;
+left: 1300px;
+border-style: inherit;
+}
+
+
+.column1 {
+  position: absolute;
+  top: 200px;
+  left: 20px;
+  width: 1850px;
+  height: 750px;
+  border-style: double;
+  border-radius: 20px;
+  background-color: #0e133d;
+}
+
+.menu {
+    top: -10px;
+    left: 20px;
+    position: absolute;
+    color: #0e133d;
+    padding: 5px;
+}
+
+.contato {
+    top: -10px;
+    left: 100px;
+    position: absolute;
+    color: #0e133d;
+    padding: 5px;
+}
+
+.sobre {
+    top: -10px;
+    left: 200px;
+    position: absolute;
+    color: #0e133d;
+    padding: 5px;
+}
+
+.title2 {
+  font-size: 50px;
+  color: aliceblue;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  
+}
+
+.description {
+    font-family: monospace;
+    margin-left: 5%;
+}
+
+.description2 {
+  font-size: 50px;
+  color: aliceblue;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.description3 {
+  font-size: 40px;
+  color: aliceblue;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.description4 {
+  padding-left: 22%;
+  font-size: 50px;
+  color: rgb(245, 5, 5);
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  
+}
+
+.Button {
+    font-size: 70px;
+}
